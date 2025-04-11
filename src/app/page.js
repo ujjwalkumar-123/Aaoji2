@@ -17,8 +17,6 @@ function page() {
     <Explore/>
     <Gallery/>
     <Testy/>
-    
-    
     </>
   )
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 
-function footer() {
+function Footer() {
   return (
     <div class="bg-[#d2b15b] text-[#5b3a29] font-sans">
   <footer class="py-10">
@@ -89,4 +89,4 @@ function footer() {
   )
 }
 
-export default footer
+export default Footer
