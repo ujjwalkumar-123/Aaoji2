@@ -74,4 +74,8 @@ body{
 #img1 {
   margin-bottom: 15px;
 }
-
+.footer{
+  margin-bottom: 80px;
+  width: 100px;
+  height: 5px;
+}
